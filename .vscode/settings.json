@@ -1,0 +1,9 @@
+{
+    "Lua.diagnostics.globals": [
+        "factorial"
+    ],
+    "Lua.runtime.version": "LuaJIT",
+    "Lua.workspace.library": [
+        "${3rd}/lovr/library"
+    ]
+}
